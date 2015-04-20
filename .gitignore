@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+.idea
+*.iml
+target
+target/
+target\
+target/surefire-reports/old/firstTestSuite/index.html
+=======
+.idea
+*.iml
+target
+/target
+*/target/**
+>>>>>>> origin/master
